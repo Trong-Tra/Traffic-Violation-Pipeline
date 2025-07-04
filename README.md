@@ -32,14 +32,21 @@ Video Feed → Kafka Producer → Apache Spark Streaming → YOLO Detection → 
 - **Frame Extraction Control**: Configurable frame sampling rates
 - **Memory Management**: Conservative resource usage to prevent crashes
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
-- **Python 3.10+**
-- **Apache Spark 3.5.0** with Kafka integration
-- **YOLOv8** (Ultralytics)
-- **OpenCV** for video processing
-- **Kafka** for message streaming
-- **Slack API** for notifications
+<div align="center">  
+    <img src="https://skillicons.dev/icons?i=python,opencv,kafka,spark" alt="Tech stack icons"/> <br>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Tech stack icons"/> <br>
+</div>
+
+### Technologies Used
+
+- **Python 3.10+** - Core programming language
+- **Apache Spark 3.5.0** - Distributed stream processing
+- **Apache Kafka** - Real-time message streaming
+- **YOLOv8** (Ultralytics) - Object detection AI model
+- **OpenCV** - Computer vision and video processing
+- **Slack API** - Real-time notifications and alerts
 
 ## 📊 Model Performance
 
