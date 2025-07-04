@@ -1,0 +1,7 @@
+pyspark
+kafka-python
+opencv-python-headless
+numpy
+pandas
+ultralytics
+requests

@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project-specific
+# Model weights (too large for git)
+model/
+models/
+*.pt
+*.pth
+*.onnx
+*.pkl
+
+# Data files (too large for git)
+data/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output directories
+output_processed/
+output_violation/
+output/
+logs/
+
+# Spark checkpoints and temp files
+checkpoint/
+metastore_db/
+derby.log
+spark-warehouse/
+
+# Instructions and sensitive files
+instruction.txt
+instructions.txt
+*.txt.bak
+
+# Kafka logs and temp files
+*.log
+*.tmp
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Configuration files with sensitive data
+config.ini
+.env.local
+secrets.json
+
+# Test results and coverage
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# Documentation build
+docs/_build/
