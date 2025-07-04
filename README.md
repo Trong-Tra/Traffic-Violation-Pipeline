@@ -35,7 +35,8 @@ Video Feed → Kafka Producer → Apache Spark Streaming → YOLO Detection → 
 ## 🛠️ Tech Stack
 
 <div align="center">  
-    <img src="https://skillicons.dev/icons?i=python,opencv,kafka,spark,git,github,vscode" alt="Tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=python,opencv,kafka" alt="Tech stack icons"/> <br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tech stack icons"/> <br>
 </div>
 
 ### Technologies Used
